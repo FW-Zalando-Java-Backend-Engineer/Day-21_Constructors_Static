@@ -129,8 +129,11 @@ public class User {
 ## **🎮 Practice Challenges**
 
 ✅ Build a `LibraryBook` system using static factory methods.
+
 ✅ Add a static counter to track created instances.
+
 ✅ Implement overloaded constructors for different book creation styles.
+
 ✅ Refactor old classes to use factory patterns where appropriate.
 
 ---
@@ -139,7 +142,8 @@ public class User {
 
 * [Baeldung – Constructors in Java](https://www.baeldung.com/java-constructors)
 * [Baeldung – Static Methods](https://www.baeldung.com/java-static)
-* [Baeldung – Static Factory Methods](https://www.baeldung.com/static-method-vs-constructor)
+* [Baeldung – Java Constructors vs Static Factory Methods
+](https://www.baeldung.com/java-constructors-vs-static-factory-methods)
 * [Oracle Docs – Understanding Class Members](https://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html)
 
 ---
